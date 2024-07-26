@@ -1,2 +1,1 @@
-Voice based Tasks & Conversational Assisstant based on friendly anime Waifu Behaviour based.
-
+Substitles in real life. Get real time transaltions of live spoken sentences on your screen just like you see in movies and shows, powered by LPU Groq - Whisper 3 Large Model and Llama 3.1 70b
